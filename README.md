@@ -60,3 +60,6 @@ If you for inctance ad a tiket to the cart, the cart total will be calculated an
 
 Vuex is debuggble. Every time Vuex change the state, the change is tracked and can be presented in history log.
 
+## Install and use Vuex
+
+Vuex.Store have 5 options, State, Mutations, getters, actions and modules.
