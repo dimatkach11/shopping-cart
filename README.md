@@ -59,3 +59,4 @@ Vuex is state management, serves as a centralized data store for all components 
 If you for inctance ad a tiket to the cart, the cart total will be calculated and at the same time, the available tickets will be reduced.
 
 Vuex is debuggble. Every time Vuex change the state, the change is tracked and can be presented in history log.
+
